@@ -1,13 +1,11 @@
 City_ID,City,Country,Max Temp,Current Description,Lat,Lon,Hotel Name
 0,Viedma,AR,53.1,light rain,-40.8135,-62.9967,Hotel Cristal
 1,Mar Del Plata,AR,55.13,clear sky,-38.0023,-57.5575,Gran Hotel Mar del Plata
-3,Punta Arenas,CL,37.51,broken clouds,-53.15,-70.9167,Hotel Dreams Del Estrecho
 10,Concordia,AR,49.78,clear sky,-31.393,-58.0209,Palmar Hotel Casino
 12,Dudinka,RU,56.59,overcast clouds,69.4058,86.1778,Hotel Viktoria
 20,Cape Town,ZA,54.27,fog,-33.9258,18.4232,Southern Sun Waterfront Cape Town
 22,Dunedin,NZ,51.8,overcast clouds,-45.8742,170.5036,Scenic Hotel Southern Cross
 25,Port Macquarie,AU,48.88,clear sky,-31.4333,152.9167,Rydges Port Macquarie
-37,Ushuaia,AR,37.06,light intensity drizzle,-54.8,-68.3,Albatros Hotel
 40,Castro,BR,40.95,overcast clouds,-24.7911,-50.0119,CHACARA BAILLY
 41,Mataura,NZ,48.47,overcast clouds,-46.1927,168.8643,Ellie's Villa
 43,Port Alfred,ZA,57.9,scattered clouds,-33.5906,26.891,The Halyards Hotel
@@ -18,11 +16,9 @@ City_ID,City,Country,Max Temp,Current Description,Lat,Lon,Hotel Name
 55,Tuatapere,NZ,48.81,moderate rain,-46.1333,167.6833,Ron and Tony's Bed & Breakfast
 59,Muhos,FI,55.18,overcast clouds,64.808,25.9931,Montta - active camping / campsite Montan
 61,Cidreira,BR,50.29,clear sky,-30.1811,-50.2056,Hotel Castelo
-68,Cherskiy,RU,34.97,light rain,68.75,161.3,Gostinitsa
 69,Hermanus,ZA,52.9,clear sky,-34.4187,19.2345,Misty Waves Boutique Hotel
 71,Melioratorov,RU,59.38,broken clouds,57.2107,65.6077,Algorithm hotel
 75,Beringovskiy,RU,42.66,overcast clouds,63.05,179.3167,Beringgorski
-76,Coihaique,CL,38.01,scattered clouds,-45.5752,-72.0662,Diego De Almagro Coyhaique
 77,Busselton,AU,41.09,overcast clouds,-33.65,115.3333,Observatory Guest House
 78,Tiksi,RU,47.97,scattered clouds,71.6872,128.8694,Arktika
 80,Upernavik,GL,41.05,broken clouds,72.7868,-56.1549,Gina's Guesthouse - Upernavik
@@ -39,7 +35,6 @@ City_ID,City,Country,Max Temp,Current Description,Lat,Lon,Hotel Name
 109,Nome,US,51.17,light rain,64.5011,-165.4064,Dredge 7 Inn
 111,Krasnovishersk,RU,50.88,scattered clouds,60.4078,57.082,Vishera
 113,Codrington,AU,49.95,light rain,-38.2667,141.9667,Codrington Gardens Bed And Breakfast
-115,Longyearbyen,SJ,39.04,scattered clouds,78.2186,15.6401,"Radisson Blu Polar Hotel, Spitsbergen"
 117,Teodoro Sampaio,BR,54.18,overcast clouds,-22.5325,-52.1675,MINI HOTEL
 123,Joinville,BR,51.1,clear sky,-26.3044,-48.8456,Mercure Joinville Prinz Hotel
 132,Bure,ET,56.25,light rain,10.7,37.0667,Holiday
@@ -98,7 +93,6 @@ City_ID,City,Country,Max Temp,Current Description,Lat,Lon,Hotel Name
 353,Iskateley,RU,41.4,clear sky,67.6803,53.1512,Hostel Agat
 354,Tommot,RU,51.44,few clouds,58.9564,126.2925,Gostinitsa Tommot
 366,Krasnoselkup,RU,53.28,broken clouds,65.7,82.4667,Krasnosel'kupnefteprodukt
-367,Bilibino,RU,37.78,overcast clouds,68.0546,166.4372,Gostinitsa Severyanka
 370,Thohoyandou,ZA,52.61,clear sky,-22.9456,30.485,Masili Guesthouse & Conference
 374,Comodoro Rivadavia,AR,49.86,clear sky,-45.8667,-67.5,Austral Hotel
 378,Bereda,ES,58.41,overcast clouds,43.2686,-7.5406,Pazo de Verdes
@@ -138,7 +132,6 @@ City_ID,City,Country,Max Temp,Current Description,Lat,Lon,Hotel Name
 534,Tazovskiy,RU,47.12,clear sky,67.4667,78.7,TazHostel
 536,Yar-Sale,RU,47.28,overcast clouds,66.8333,70.8333,Yalemd
 537,Tlaxco,MX,57.09,overcast clouds,19.6167,-98.1167,Hacienda Santa María Xalostoc
-539,Rio Gallegos,AR,37.45,clear sky,-51.6226,-69.2181,Hotel Santa Cruz
 541,Vestmannaeyjar,IS,55.31,broken clouds,63.4427,-20.2734,Glamping & Camping
 544,Ginir,ET,57.94,overcast clouds,7.1333,40.7,Sura Dare Village
 546,Saldanha,ZA,51.85,clear sky,-33.0117,17.9442,Blue Bay Lodge
@@ -152,7 +145,6 @@ City_ID,City,Country,Max Temp,Current Description,Lat,Lon,Hotel Name
 587,Sivas,TR,57.83,clear sky,39.7916,37.0019,Sivas Sultan Otel
 598,Kiruna,SE,52.72,overcast clouds,67.8557,20.2251,Camp Ripan
 603,Swan Hill,AU,50.0,scattered clouds,-35.3378,143.5544,Lazy River Motor Inn
-605,Pevek,RU,32.85,overcast clouds,69.7008,170.3133,Hotel ABC
 606,Parabel,RU,50.83,broken clouds,58.6978,81.4825,Housing Complex Gazprom Transgaz Tomsk
 612,Yulara,AU,48.04,clear sky,-25.2406,130.9889,Desert Gardens Hotel - Ayers Rock Resort
 615,Ahipara,NZ,58.15,moderate rain,-35.1667,173.1667,Ahipara Holiday Park
